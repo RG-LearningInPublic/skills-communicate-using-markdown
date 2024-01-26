@@ -1,10 +1,12 @@
 # Pull Request Header
 ## Purpose
 Testing
-### Another Section
+### Images
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+### Code Blocks
 
-
-
+``` javascript
+var myVar = "Hello, world!";
+```
